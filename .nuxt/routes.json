@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "D:\\\\拉钩学习\\\\练习题\\\\03-03服务端渲染\\\\realworld-nuxtjs\\\\pages\\\\layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "D:\\\\拉钩学习\\\\练习题\\\\03-03服务端渲染\\\\realworld-nuxtjs\\\\pages\\\\home",
+        "_name": "_1cad8b3a"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "D:\\\\拉钩学习\\\\练习题\\\\03-03服务端渲染\\\\realworld-nuxtjs\\\\pages\\\\login",
+        "_name": "_793c246e"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "D:\\\\拉钩学习\\\\练习题\\\\03-03服务端渲染\\\\realworld-nuxtjs\\\\pages\\\\login",
+        "_name": "_793c246e"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "D:\\\\拉钩学习\\\\练习题\\\\03-03服务端渲染\\\\realworld-nuxtjs\\\\pages\\\\profile",
+        "_name": "_1828dd24"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "D:\\\\拉钩学习\\\\练习题\\\\03-03服务端渲染\\\\realworld-nuxtjs\\\\pages\\\\settings",
+        "_name": "_1ac6acfe"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "D:\\\\拉钩学习\\\\练习题\\\\03-03服务端渲染\\\\realworld-nuxtjs\\\\pages\\\\editor",
+        "_name": "_bc86e5f0"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "D:\\\\拉钩学习\\\\练习题\\\\03-03服务端渲染\\\\realworld-nuxtjs\\\\pages\\\\article",
+        "_name": "_4a94568a"
+      }
+    ],
+    "_name": "_a4e93276"
+  }
+]
