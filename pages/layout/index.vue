@@ -3,14 +3,14 @@
  * @version: 1.0
  * @Author: 张泽涛
  * @LastEditors: 张泽涛
- * @LastEditTime: 2021-04-23 20:07:42
+ * @LastEditTime: 2021-04-28 20:06:40
 -->
 <template>
   <div>
     <!-- 顶部导航栏 -->
     <nav class="navbar navbar-light">
       <div class="container">
-        <nuxt-link class="navbar-brand" to="/">conduit</nuxt-link>
+        <nuxt-link class="navbar-brand" to="/">conduit迭代更新</nuxt-link>
         <ul class="nav navbar-nav pull-xs-right">
           <li class="nav-item">
             <!-- Add "active" class when you're on that page" -->
